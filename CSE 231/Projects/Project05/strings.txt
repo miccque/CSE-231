@@ -1,0 +1,10 @@
+"Enter a file: "
+"\nError in file name: {}. Please try again."
+"State"
+"Max Year"
+"Max"
+"Min Year"
+"Min"
+"\nCrop: {}"
+
+    

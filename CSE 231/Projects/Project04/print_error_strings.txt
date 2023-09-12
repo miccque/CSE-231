@@ -1,0 +1,8 @@
+Here are the error message strings for Project 4
+print("Error in year. Please try again.")
+print("Error in file name:",filename," Please try again.")        
+print("Error in year. Please try again.")
+print("Error in get_percent: shouldn't get to this print")
+print("Error in percent. Please try again")
+print("Error: income must be positive")
+print("Error in selection.")
